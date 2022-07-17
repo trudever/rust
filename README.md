@@ -16,4 +16,3 @@ cargo build
 # Build for production
 cargo build --release
 ```
-Readme update
